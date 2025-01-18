@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Kendall from Germany<br><br>- 🔭 I’m working as a Backend Developer for Aterna Analystics!<br>- 📚</p>
+<p align="left">I'm Kendall from Germany<br><br>- 🔭 I’m working as a Backend Developer for Aterna Analystics!</p>
 
 ###
 
